@@ -137,12 +137,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
 - [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
 - [**Contact**](mailto:maximus@nextwork.org)
 
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<a href="https://www.linkedin.com/in/john-tyrone-coronel/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
-  <img src="[https://skillicons.dev/icons?i=instagram](https://www.instagram.com/janjanpagunsan/?hl=en)" alt="Instagram" />
+
+<a href="https://www.instagram.com/janjanpagunsan/?hl=en" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
+>
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
