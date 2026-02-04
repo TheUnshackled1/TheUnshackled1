@@ -70,10 +70,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
 
 
 ## Projects - showcase
-<h3>Projects – showcase</h3>
-
-
-
 <table>
   <tr>
 <td align="center" width="33%">
