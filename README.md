@@ -8,11 +8,7 @@
 - Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.
 
 
-### 🧰 Languages and Tools
-
-
-## Projects - showcase
-<h3>Projects – showcase</h3>
+# 🧰 Languages and Tools
 
 <p>
 <img align="left" alt="HTML5" width="35px" style="padding-right:10px;"
@@ -71,6 +67,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
 <br clear="left"/>
 
 <br/><br/>
+
+
+## Projects - showcase
+<h3>Projects – showcase</h3>
+
 
 
 <table>
