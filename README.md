@@ -1,6 +1,6 @@
 
 # 🐐 John Tyrone P. Coronel
-**`Currently a Student at Carlos Hilado Memorial State University`** 
+**`Currently a 3rd Year Student at Carlos Hilado Memorial State University`** 
 
 ## About Me
 - I’m a student developer passionate about building systems that make work simpler and more efficient.
