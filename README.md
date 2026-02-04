@@ -15,9 +15,9 @@ Credits and references used in this README:
 **`Growth Lead at NextWork`** 
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+- I’m a student developer passionate about building systems that make work simpler and more efficient.
+- I enjoy turning ideas into working applications and continuously learning new technologies along the way.
+- Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.
 
 
 ## Skill stack
