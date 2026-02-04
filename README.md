@@ -144,7 +144,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
 <a href="https://www.instagram.com/janjanpagunsan/?hl=en" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
->
 
-<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+<img src="https://media.giphy.com/media/l3q2wJsC23ikJg9xe/giphy.gif" alt="Coding animation" width="400" />
