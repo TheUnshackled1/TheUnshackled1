@@ -85,9 +85,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
     />
   </a>
       <br/>
-      <b>DeepSeek AI Chatbot</b><br/>
-      <sub>Built an LLM-powered chatbot that answers domain-specific questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <b>CHMSU STUDENT VIOLATION MONITORING SYSTEM</b><br/>
+      <sub>: Provide a single system to report, track and manage student disciplinary incidents and the OSA (Office of Student Affairs) workflows that follow them.</sub><br/>
+      🔗 <a href="https://github.com/user-attachments/assets/181d5e86-d0b9-4570-a5fb-b865d3264e41">Repo</a>
       <br/>
       <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
