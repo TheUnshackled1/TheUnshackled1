@@ -120,7 +120,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
   </tr>
 </table>
 
----
 
 ## Stats
 <!-- Stats card by anuraghazra/github-readme-stats
@@ -131,7 +130,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
      Docs: https://github.com/anuraghazra/github-readme-stats -->
 ![Tyrone GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
 
----
 
 ## Links
 <a href="https://www.linkedin.com/in/john-tyrone-coronel/" target="_blank">
