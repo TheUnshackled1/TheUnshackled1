@@ -70,7 +70,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
 
 <br clear="left"/>
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 
 <table>
