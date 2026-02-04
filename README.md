@@ -77,9 +77,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
+      <a href="https://github.com/TheUnshackled1/student-violation-monitoring-system">
+        <img src="<img width="1919" height="1022" alt="Screenshot 2026-02-05 002710" src="https://github.com/user-attachments/assets/181d5e86-d0b9-4570-a5fb-b865d3264e41" />"
+             alt="CHMSU STUDENT VIOLATION MONITORING SYSTEM"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
