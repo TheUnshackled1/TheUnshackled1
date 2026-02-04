@@ -39,9 +39,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-pl
 <img align="left" alt="Postman" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 
-<img align="left" alt="PostgreSQL" width="35px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-
 <img align="left" alt="Git" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 
@@ -51,17 +48,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 <img align="left" alt="GitKraken" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" />
 
-<img align="left" alt="VS Code" width="35px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-<img align="left" alt="Sublime Text" width="35px" style="padding-right:10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" />
+<img align="left" alt="Vercel" width="35px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
      
 <img align="left" alt="npm" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 <img align="left" alt="PyCharm" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+
+<img align="left" alt="VS Code" width="35px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img align="left" alt="PostgreSQL" width="35px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+
+<img align="left" alt="SQLite" width="35px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+     
 </p>
 
 <br clear="left"/>
