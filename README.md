@@ -54,9 +54,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-orig
 <img align="left" alt="VS Code" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img align="left" alt="PowerShell" width="35px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-
+<img align="left" alt="Sublime Text" width="35px" style="padding-right:10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" />
+     
 <img align="left" alt="npm" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
