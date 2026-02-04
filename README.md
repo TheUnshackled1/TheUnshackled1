@@ -12,58 +12,60 @@
 
 
 ## Projects - showcase
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;"
+<h3>Projects – showcase</h3>
+
+<p>
+<img align="left" alt="HTML5" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;"
+<img align="left" alt="CSS3" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;"
+<img align="left" alt="Bootstrap" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
+<img align="left" alt="JavaScript" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;"
+<img align="left" alt="Python" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-<img align="left" alt="Django" width="30px" style="padding-right:10px;"
+<img align="left" alt="Django" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
-<img align="left" alt="Django REST Framework" width="30px" style="padding-right:10px;"
+<img align="left" alt="Django REST" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-plain.svg" />
 
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;"
+<img align="left" alt="Postman" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;"
+<img align="left" alt="PostgreSQL" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;"
+<img align="left" alt="Git" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
+<img align="left" alt="GitHub" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img align="left" alt="GitKraken" width="30px" style="padding-right:10px;"
+<img align="left" alt="GitKraken" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" />
 
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;"
+<img align="left" alt="VS Code" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img align="left" alt="Sublime Text" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" />
+<img align="left" alt="PowerShell" width="35px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 
-<img align="left" alt="npm" width="30px" style="padding-right:10px;"
+<img align="left" alt="npm" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-
-<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;"
+<img align="left" alt="PyCharm" width="35px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+</p>
 
-<br/>
+<br clear="left"/>
+
 
 <table>
   <tr>
