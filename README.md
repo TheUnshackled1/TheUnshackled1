@@ -1,18 +1,6 @@
-<!--
-Credits and references used in this README:
-
-1) Layout ideas and section inspiration:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
-
-2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
-
-3) GitHub stats card:
-   https://github.com/anuraghazra/github-readme-stats
--->
 
 # 🐐 John Tyrone P. Coronel
-**`Growth Lead at NextWork`** 
+**`Currently a Student at Carlos Hilado Memorial State University`** 
 
 ## About Me
 - I’m a student developer passionate about building systems that make work simpler and more efficient.
