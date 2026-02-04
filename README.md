@@ -141,7 +141,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/mmaximus.soares/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <img src="[https://skillicons.dev/icons?i=instagram](https://www.instagram.com/janjanpagunsan/?hl=en)" alt="Instagram" />
 </a>
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
