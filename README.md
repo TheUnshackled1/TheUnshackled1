@@ -86,10 +86,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
   </a>
       <br/>
       <b>CHMSU STUDENT VIOLATION MONITORING SYSTEM</b><br/>
-      <sub>: Provide a single system to report, track and manage student disciplinary incidents and the OSA (Office of Student Affairs) workflows that follow them.</sub><br/>
+      <sub>Provide a single system to report, track and manage student disciplinary incidents and the OSA (Office of Student Affairs) workflows that follow them.</sub><br/>
       🔗 <a href="https://github.com/user-attachments/assets/181d5e86-d0b9-4570-a5fb-b865d3264e41">Repo</a>
       <br/>
-      <sub>Tags: AI, LLMs, Prompt Engineering</sub>
+      <sub>Tags: django, python, student-discipline, osa, violations, admin-dashboard, rest-api, postgres, sqlite, opencv, gtts, django-jazzmin, file-uploads, activity-logging, role-based access</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
