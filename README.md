@@ -30,9 +30,12 @@
 
 ![VS%20Code](https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Sublime%20Text](https://img.shields.io/badge/sublime%20text-%23FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Spyder](https://img.shields.io/badge/spyder-%23FF0000.svg?style=for-the-badge&logo=spyderide&logoColor=white)
+
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br clear="left"/>
 <!--
 ## Projects - showcase
 <table>
