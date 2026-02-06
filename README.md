@@ -3,9 +3,9 @@
 **`Currently a 3rd Year Student at Carlos Hilado Memorial State University`** 
 
 ## About Me
-- I’m a student developer passionate about building systems that make work simpler and more efficient.
-- I enjoy turning ideas into working applications and continuously learning new technologies along the way.
-- Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.
+I’m a student developer passionate about building systems that make work simpler and more efficient.
+I enjoy turning ideas into working applications and continuously learning new technologies along the way.
+Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.
 
 
 # 🧰 Languages and Tools
