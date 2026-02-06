@@ -94,4 +94,4 @@ Right now, I’m focused on strengthening my programming skills, exploring web d
 
 
 
-<img src="https://media.giphy.com/media/l3q2wJsC23ikJg9xe/giphy.gif" alt="Coding animation" width="200" />
+<img src="https://i.pinimg.com/originals/69/96/14/69961438050736262.gif" alt="Coding animation" width="200" />
