@@ -65,9 +65,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-pl
 </p>
 
 <br clear="left"/>
-
-<br/><br/>
-
 <!--
 ## Projects - showcase
 <table>
