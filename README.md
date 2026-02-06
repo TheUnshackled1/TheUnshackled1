@@ -94,4 +94,4 @@ Right now, I’m focused on strengthening my programming skills, exploring web d
 
 
 
-<img src="https://i.pinimg.com/originals/69/96/14/69961438050736262.gif" alt="Coding animation" width="200" />
+<img src="https://github.com/TheUnshackled1/TheUnshackled1/raw/main/Tyrone.jpg" alt="John Tyrone P. Coronel" width="400" />
