@@ -83,4 +83,15 @@ Right now, I’m focused on strengthening my programming skills, exploring web d
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
-<img src="https://media.giphy.com/media/l3q2wJsC23ikJg9xe/giphy.gif" alt="Coding animation" width="400" />
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/000000" alt="X (formerly Twitter)" width="24" />
+</a>
+
+<a href="mailto:your.email@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
+
+
+
+
+<img src="https://media.giphy.com/media/l3q2wJsC23ikJg9xe/giphy.gif" alt="Coding animation" width="200" />
