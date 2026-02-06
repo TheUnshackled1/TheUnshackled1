@@ -1,14 +1,14 @@
 
 # 🐐 John Tyrone P. Coronel
 **`Currently a 3rd Year Student at Carlos Hilado Memorial State University`** 
+---
 
 ## About Me
--I’m a student developer passionate about building systems that make work simpler and more efficient.
+I’m a student developer passionate about building systems that make work simpler and more efficient.
 
--I enjoy turning ideas into working applications and continuously learning new technologies along the way.
+I enjoy turning ideas into working applications and continuously learning new technologies along the way.
 
--Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.
-
+Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.
 
 # 🧰 Languages and Tools
 
@@ -39,6 +39,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%23007ACC.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white)
+---
 
 <!--
 ## Projects - showcase
@@ -73,7 +74,6 @@
      Docs: https://github.com/anuraghazra/github-readme-stats
 ![Tyrone GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
  -->
-
 ## Links
 <a href="https://www.linkedin.com/in/john-tyrone-coronel/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
