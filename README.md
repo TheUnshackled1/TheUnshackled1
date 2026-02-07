@@ -1,4 +1,3 @@
-
 # 🐐 John Tyrone P. Coronel
 **`Currently a 3rd Year Student at Carlos Hilado Memorial State University`** 
 ---
@@ -41,28 +40,6 @@ Right now, I’m focused on strengthening my programming skills, exploring web d
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%23007ACC.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ---
 
-<!--
-## Projects - showcase
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/TheUnshackled1/student-violation-monitoring-system">
-        <img
-          src="https://github.com/user-attachments/assets/181d5e86-d0b9-4570-a5fb-b865d3264e41"
-          alt="CHMSU STUDENT VIOLATION MONITORING SYSTEM"
-          style="width:100%; height:200px; object-fit:cover;"
-        />
-      </a>
-      <br/>
-      <b>CHMSU STUDENT VIOLATION MONITORING SYSTEM</b><br/>
-      <sub>Provide a single system to report, track and manage student disciplinary incidents and the OSA workflows.</sub><br/>
-      🔗 <a href="#">Repo</a>
-      <br/>
-      <sub>Tags: django, python, opencv</sub>
-    </td>
-  </tr>
-</table>
--->
 
 <!--
 ## Stats
