@@ -39,18 +39,6 @@ Right now, I’m focused on strengthening my programming skills, exploring web d
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%23007ACC.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ---
-
-
-<!--
-## Stats
- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats
-![Tyrone GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
- -->
 ## Links
 <a href="https://www.linkedin.com/in/john-tyrone-coronel/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
