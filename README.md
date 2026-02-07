@@ -55,10 +55,3 @@ Right now, I’m focused on strengthening my programming skills, exploring web d
 <a href="mailto:your.email@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
-
-
-<!--
-
-
-<img src="https://github.com/TheUnshackled1/TheUnshackled1/raw/main/Tyrone.jpg" alt="John Tyrone P. Coronel" width="400" />
- -->
