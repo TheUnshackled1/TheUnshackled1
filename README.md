@@ -1,5 +1,6 @@
-# 🐐 John Tyrone P. Coronel
-**`Currently a 3rd Year Student at Carlos Hilado Memorial State University`** 
+
+# <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" /> John Tyrone P. Coronel <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" />
+**`Currently a 3rd Year Student at Carlos Hilado Memorial State University`**
 ---
 
 ## About Me
