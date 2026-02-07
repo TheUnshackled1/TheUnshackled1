@@ -1,16 +1,17 @@
 
-# <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" /> John Tyrone P. Coronel <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" />
+> # <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" /> John Tyrone P. Coronel <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" />
 **`Currently a 3rd Year Student at Carlos Hilado Memorial State University`**
 ---
 
-## About Me
+> ## About Me
 <strong>I’m a student developer passionate about building systems that make work simpler and more efficient.</strong>
 
 <strong>I enjoy turning ideas into working applications and continuously learning new technologies along the way.</strong>
 
 <strong>Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.</strong>
 
-# 🧰 Languages and Tools
+> ## 🧰 Languages and Tools
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,19 +41,25 @@
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%23007ACC.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ---
-## Links
-<a href="https://www.linkedin.com/in/john-tyrone-coronel/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+> ### Connect with Me
 
-<a href="https://www.instagram.com/janjanpagunsan/?hl=en" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
-
-<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/000000" alt="X (formerly Twitter)" width="24" />
-</a>
-
-<a href="mailto:your.email@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/chamidu-dilshan-082b43274/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/Chamidu0423" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/Chamidu0423" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/@NALGEON" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40"/>
+  </a>
+  <a href="mailto:chamidudilshan0423@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://chamidu-dilshaninfo.web.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
+  </a>
+</p>
