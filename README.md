@@ -5,6 +5,12 @@
 
 > ## About Me
 
+<strong>I’m a student developer passionate about building systems that make work simpler and more efficient.</strong>
+
+<strong>I enjoy turning ideas into working applications and continuously learning new technologies along the way.</strong>
+
+<strong>Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.</strong>
+
 
 > ## 🧰 Languages and Tools
 
