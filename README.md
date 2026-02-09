@@ -66,3 +66,9 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
   </a>
 </p>
+
+
+
+
+
+![snake gif](https://github.com/TheUnshackled1/TheUnshackled1/blob/output/github-snake-dark.svg)
