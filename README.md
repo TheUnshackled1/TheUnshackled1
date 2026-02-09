@@ -1,5 +1,7 @@
+<div align="center">
 
 > # <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" /> John Tyrone P. Coronel <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" />
+
 **`Currently a 3rd Year Student at Carlos Hilado Memorial State University`**
 ---
 
@@ -12,10 +14,12 @@
 <strong>Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.</strong>
 
 
-<div align="center">
     
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
+
+
+<div align="center">
 
 > ## 🧰 Languages and Tools
 
@@ -51,7 +55,7 @@
 
 > ### Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/john-tyrone-coronel/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/>
   </a>
@@ -72,6 +76,7 @@
   </a>
 </p>
 
+</div>
 
 
 
