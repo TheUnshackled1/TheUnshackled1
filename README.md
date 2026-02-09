@@ -11,7 +11,11 @@
 
 <strong>Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.</strong>
 
-![snake gif](https://github.com/TheUnshackled1/TheUnshackled1/blob/output/github-snake-dark.svg)
+
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 > ## 🧰 Languages and Tools
 
