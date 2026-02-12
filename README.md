@@ -13,7 +13,7 @@
 
 <strong>Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.</strong>
 
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake.svg)
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/ocean.gif)
 </div>
 <div align="center">
     
