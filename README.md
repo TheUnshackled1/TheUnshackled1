@@ -7,11 +7,15 @@
 
 > ## About Me
 
-<strong>I’m a student developer passionate about building systems that make work simpler and more efficient.</strong>
+<div>
+  <strong>
+    <p>I’m a student developer passionate about building systems that make work simpler and more efficient.</p>
+    <p>I enjoy turning ideas into working applications and continuously learning new technologies along the way.</p>
+    <p>Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.</p>
+  </strong>
+</div>
 
-<strong>I enjoy turning ideas into working applications and continuously learning new technologies along the way.</strong>
 
-<strong>Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.</strong>
 
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/ocean.gif)
 </div>
