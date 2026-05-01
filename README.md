@@ -58,7 +58,7 @@
 
 > ### Connect with Me
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/john-tyrone-coronel/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40"/>
   </a>
@@ -77,8 +77,6 @@
   <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
   </a>
-</p>
-
 </div>
 
 
