@@ -55,7 +55,7 @@
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%23007ACC.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ---
-
+</div>
 > ### Connect with Me
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
