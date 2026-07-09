@@ -3,6 +3,9 @@
 > # <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" /> John Tyrone P. Coronel <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" />
 
 **`Currently a 3rd Year Student at Carlos Hilado Memorial State University`**
+
+[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-JOHNTYRONEPORTFOLIO.VERCEL.APP-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://johntyroneportfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/coronel-john-tyrone-474299339) [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtcoronel.chmsu@gmail.com)
+
 ---
 
 > ## About Me
@@ -11,7 +14,7 @@
   <strong>
     <p>I’m a student developer passionate about building systems that make work simpler and more efficient.</p>
     <p>I enjoy turning ideas into working applications and continuously learning new technologies along the way.</p>
-    <p>Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech.</p>
+    <p>Right now, I’m focused on strengthening my programming skills, exploring web development and building real-world projects to prepare for a career in tech. You can check my projects on <a href="https://johntyroneportfolio.vercel.app/">my portfolio website</a>.</p>
   </strong>
 </div>
 
