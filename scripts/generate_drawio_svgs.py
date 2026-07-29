@@ -48,7 +48,6 @@ def create_drawio_svg(filename: str, width: int, height: int, title: str, xml_co
     return filepath
 
 
-# --- 1. CODE OF CONDUCT DIAGRAM ---
 coc_xml = """<mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="500">
   <root>
     <mxCell id="0"/>
@@ -70,34 +69,26 @@ coc_xml = """<mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" 
 
 coc_svg = """
   <g filter="url(#drop-shadow)">
-    <!-- Header Title -->
     <text x="30" y="38" fill="#58a6ff" font-size="16" font-weight="600">Code of Conduct — Incident Resolution Workflow</text>
 
-    <!-- Node 1 -->
     <rect x="30" y="60" width="160" height="45" rx="8" fill="url(#card-blue)" stroke="#58a6ff" stroke-width="1.5"/>
     <text x="110" y="87" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">Incident Occurs</text>
 
-    <!-- Arrow 1 -->
     <path d="M 190 82.5 L 230 82.5" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
     <polygon points="236,82.5 226,77.5 226,87.5" fill="#8b949e"/>
 
-    <!-- Node 2 -->
     <rect x="236" y="60" width="270" height="45" rx="8" fill="url(#card-green)" stroke="#39d353" stroke-width="1.5"/>
     <text x="371" y="87" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">Report to Maintainer</text>
 
-    <!-- Arrow 2 -->
     <path d="M 506 82.5 L 546 82.5" stroke="#8b949e" stroke-width="2"/>
     <polygon points="552,82.5 542,77.5 542,87.5" fill="#8b949e"/>
 
-    <!-- Node 3 -->
     <rect x="552" y="60" width="190" height="45" rx="8" fill="url(#card-purple)" stroke="#d2a8ff" stroke-width="1.5"/>
     <text x="647" y="87" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">Review &amp; Assessment</text>
 
-    <!-- Arrow 3 (down) -->
     <path d="M 647 105 L 647 145" stroke="#8b949e" stroke-width="2"/>
     <polygon points="647,151 642,141 652,141" fill="#8b949e"/>
 
-    <!-- Resolution Levels -->
     <rect x="30" y="160" width="165" height="50" rx="8" fill="#161b22" stroke="#388bfd" stroke-width="1.5"/>
     <text x="112" y="182" fill="#58a6ff" font-size="12" font-weight="600" text-anchor="middle">Level 1: Correction</text>
     <text x="112" y="198" fill="#8b949e" font-size="11" text-anchor="middle">Private Warning</text>
@@ -119,7 +110,6 @@ coc_svg = """
 create_drawio_svg("code-of-conduct.drawio.svg", 780, 235, "Code of Conduct Workflow", coc_xml, coc_svg)
 
 
-# --- 2. CONTRIBUTING DIAGRAM ---
 contrib_xml = """<mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="300">
   <root>
     <mxCell id="0"/>
@@ -131,7 +121,6 @@ contrib_svg = """
   <g filter="url(#drop-shadow)">
     <text x="30" y="38" fill="#58a6ff" font-size="16" font-weight="600">Contribution Lifecycle</text>
 
-    <!-- Row 1 -->
     <rect x="30" y="60" width="130" height="42" rx="8" fill="url(#card-blue)" stroke="#58a6ff" stroke-width="1.5"/>
     <text x="95" y="85" fill="#ffffff" font-size="12" font-weight="600" text-anchor="middle">1. Fork Repo</text>
 
@@ -153,7 +142,6 @@ contrib_svg = """
     <rect x="513" y="60" width="130" height="42" rx="8" fill="url(#card-purple)" stroke="#d2a8ff" stroke-width="1.5"/>
     <text x="578" y="85" fill="#ffffff" font-size="12" font-weight="600" text-anchor="middle">4. Test Code</text>
 
-    <!-- Row 2 -->
     <rect x="191" y="135" width="130" height="42" rx="8" fill="url(#card-orange)" stroke="#e3b341" stroke-width="1.5"/>
     <text x="256" y="160" fill="#ffffff" font-size="12" font-weight="600" text-anchor="middle">5. Commit &amp; Push</text>
 
@@ -169,7 +157,6 @@ contrib_svg = """
     <rect x="513" y="135" width="130" height="42" rx="8" fill="url(#card-green)" stroke="#39d353" stroke-width="1.5"/>
     <text x="578" y="160" fill="#ffffff" font-size="12" font-weight="600" text-anchor="middle">7. Review &amp; Merge</text>
 
-    <!-- Link Row 1 to Row 2 -->
     <path d="M 578 102 L 578 118 L 256 118 L 256 135" stroke="#8b949e" stroke-width="2" fill="none"/>
     <polygon points="256,135 251,125 261,125" fill="#8b949e"/>
   </g>
@@ -178,7 +165,6 @@ contrib_svg = """
 create_drawio_svg("contributing.drawio.svg", 675, 205, "Contribution Lifecycle", contrib_xml, contrib_svg)
 
 
-# --- 3. LICENSE DIAGRAM ---
 license_xml = """<mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="300">
   <root>
     <mxCell id="0"/>
@@ -190,30 +176,25 @@ license_svg = """
   <g filter="url(#drop-shadow)">
     <text x="30" y="38" fill="#58a6ff" font-size="16" font-weight="600">MIT License Permissions &amp; Terms</text>
 
-    <!-- Root -->
     <rect x="30" y="60" width="150" height="120" rx="8" fill="url(#card-blue)" stroke="#58a6ff" stroke-width="1.5"/>
     <text x="105" y="115" fill="#ffffff" font-size="14" font-weight="600" text-anchor="middle">MIT License</text>
 
-    <!-- Column 1: Permissions -->
     <rect x="220" y="60" width="160" height="35" rx="6" fill="#161b22" stroke="#39d353" stroke-width="1.5"/>
     <text x="300" y="82" fill="#39d353" font-size="12" font-weight="600" text-anchor="middle">Permissions</text>
     <text x="300" y="112" fill="#c9d1d9" font-size="11" text-anchor="middle">• Commercial Use</text>
     <text x="300" y="128" fill="#c9d1d9" font-size="11" text-anchor="middle">• Modification &amp; Distribution</text>
     <text x="300" y="144" fill="#c9d1d9" font-size="11" text-anchor="middle">• Private Use</text>
 
-    <!-- Column 2: Conditions -->
     <rect x="410" y="60" width="160" height="35" rx="6" fill="#161b22" stroke="#e3b341" stroke-width="1.5"/>
     <text x="490" y="82" fill="#e3b341" font-size="12" font-weight="600" text-anchor="middle">Conditions</text>
     <text x="490" y="112" fill="#c9d1d9" font-size="11" text-anchor="middle">• Include Copyright Notice</text>
     <text x="490" y="128" fill="#c9d1d9" font-size="11" text-anchor="middle">• Include License Notice</text>
 
-    <!-- Column 3: Limitations -->
     <rect x="600" y="60" width="160" height="35" rx="6" fill="#161b22" stroke="#f78166" stroke-width="1.5"/>
     <text x="680" y="82" fill="#f78166" font-size="12" font-weight="600" text-anchor="middle">Limitations</text>
     <text x="680" y="112" fill="#c9d1d9" font-size="11" text-anchor="middle">• No Warranty</text>
     <text x="680" y="128" fill="#c9d1d9" font-size="11" text-anchor="middle">• No Author Liability</text>
 
-    <!-- Connectors -->
     <path d="M 180 120 L 220 77" stroke="#8b949e" stroke-width="1.5"/>
     <path d="M 180 120 L 410 77" stroke="#8b949e" stroke-width="1.5"/>
     <path d="M 180 120 L 600 77" stroke="#8b949e" stroke-width="1.5"/>
@@ -223,7 +204,6 @@ license_svg = """
 create_drawio_svg("license.drawio.svg", 790, 200, "MIT License Structure", license_xml, license_svg)
 
 
-# --- 4. SECURITY DIAGRAM ---
 security_xml = """<mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="300">
   <root>
     <mxCell id="0"/>

@@ -40,7 +40,6 @@
   <g filter="url(#drop-shadow)">
     <text x="30" y="38" fill="#58a6ff" font-size="16" font-weight="600">Contribution Lifecycle</text>
 
-    <!-- Row 1 -->
     <rect x="30" y="60" width="130" height="42" rx="8" fill="url(#card-blue)" stroke="#58a6ff" stroke-width="1.5"/>
     <text x="95" y="85" fill="#ffffff" font-size="12" font-weight="600" text-anchor="middle">1. Fork Repo</text>
 
@@ -62,7 +61,6 @@
     <rect x="513" y="60" width="130" height="42" rx="8" fill="url(#card-purple)" stroke="#d2a8ff" stroke-width="1.5"/>
     <text x="578" y="85" fill="#ffffff" font-size="12" font-weight="600" text-anchor="middle">4. Test Code</text>
 
-    <!-- Row 2 -->
     <rect x="191" y="135" width="130" height="42" rx="8" fill="url(#card-orange)" stroke="#e3b341" stroke-width="1.5"/>
     <text x="256" y="160" fill="#ffffff" font-size="12" font-weight="600" text-anchor="middle">5. Commit &amp; Push</text>
 
@@ -78,7 +76,6 @@
     <rect x="513" y="135" width="130" height="42" rx="8" fill="url(#card-green)" stroke="#39d353" stroke-width="1.5"/>
     <text x="578" y="160" fill="#ffffff" font-size="12" font-weight="600" text-anchor="middle">7. Review &amp; Merge</text>
 
-    <!-- Link Row 1 to Row 2 -->
     <path d="M 578 102 L 578 118 L 256 118 L 256 135" stroke="#8b949e" stroke-width="2" fill="none"/>
     <polygon points="256,135 251,125 261,125" fill="#8b949e"/>
   </g>
