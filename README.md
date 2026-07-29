@@ -31,8 +31,6 @@
   </strong>
 </div>
 
-![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/ocean.gif)
-
 </div>
 
 ---
