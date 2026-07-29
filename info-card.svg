@@ -16,27 +16,22 @@
 }
           </style>
 
-          <!-- card background -->
           <rect width="490" height="380" rx="10" ry="10"
                 fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
-          <!-- title bar -->
           <rect x="0" y="0" width="490" height="30"
                 rx="10" ry="10" fill="#161b22"/>
           <rect x="0" y="15" width="490" height="15"
                 fill="#161b22"/>
 
-          <!-- traffic light dots -->
           <circle cx="18" cy="15" r="6" fill="#ff5f57"/>
           <circle cx="36" cy="15" r="6" fill="#ffbd2e"/>
           <circle cx="54" cy="15" r="6" fill="#28c840"/>
 
-          <!-- window title -->
           <text x="245" y="19"
                 fill="#8b949e" font-size="12"
                 text-anchor="middle">tyrone@github: ~/profile</text>
 
-          <!-- info lines -->
 
   <text x="22" y="74" class="reveal" style="animation-delay:0.00s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Name   : </tspan><tspan fill="#c9d1d9">John Tyrone P. Coronel</tspan></text>
   <text x="22" y="96" class="reveal" style="animation-delay:0.07s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Status : </tspan><tspan fill="#39d353">4th Year BSIS Student</tspan></text>
@@ -52,7 +47,6 @@
   <text x="22" y="316" fill="#8b949e" class="reveal" style="animation-delay:0.77s;opacity:0;transform:translateX(-12px)">────────────────────────────</text>
   <text x="22" y="338" class="reveal" style="animation-delay:0.84s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Goal   : </tspan><tspan fill="#c9d1d9">Building things that matter 🚀</tspan></text>
 
-          <!-- colour swatches -->
 
   <rect x="159" y="350" width="18" height="18" rx="4" fill="#0e4429" style="animation-delay:0.91s;opacity:0" class="reveal"/>
   <rect x="181" y="350" width="18" height="18" rx="4" fill="#006d32" style="animation-delay:0.98s;opacity:0" class="reveal"/>
