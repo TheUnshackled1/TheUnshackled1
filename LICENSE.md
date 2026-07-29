@@ -1,4 +1,22 @@
-MIT License
+# MIT License
+
+```mermaid
+graph TD
+    A[MIT License] --> B[Permissions]
+    A --> C[Conditions]
+    A --> D[Limitations]
+    
+    B --> B1[Commercial Use]
+    B --> B2[Modification]
+    B --> B3[Distribution]
+    B --> B4[Private Use]
+    
+    C --> C1[Include Copyright Notice]
+    C --> C2[Include Original License]
+    
+    D --> D1[No Warranty Provided]
+    D --> D2[No Author Liability]
+```
 
 Copyright (c) 2026 John Tyrone P. Coronel
 

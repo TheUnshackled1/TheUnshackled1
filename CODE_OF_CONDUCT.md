@@ -1,5 +1,16 @@
 # Contributor Covenant Code of Conduct
 
+```mermaid
+graph TD
+    A[Incident Occurs] --> B[Report to jtcoronel.chmsu@gmail.com]
+    B --> C[Review & Investigation]
+    C --> D{Impact Assessment}
+    D -->|Minor Unprofessional Behavior| E[Level 1: Correction & Private Warning]
+    D -->|Single / Repeated Violation| F[Level 2: Formal Warning & Interaction Limit]
+    D -->|Sustained Inappropriate Behavior| G[Level 3: Temporary Community Ban]
+    D -->|Severe / Pattern of Harassment| H[Level 4: Permanent Community Ban]
+```
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
