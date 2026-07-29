@@ -1,16 +1,6 @@
 # Contributing Guidelines
 
-```mermaid
-graph LR
-    A[Fork Repository] --> B[Create Feature Branch]
-    B --> C[Implement Changes]
-    C --> D[Run Local Tests]
-    D --> E[Commit Changes]
-    E --> F[Push Branch & Open PR]
-    F --> G{Maintainer Review}
-    G -->|Approved| H[Merged into Main]
-    G -->|Changes Requested| C
-```
+![Contribution Lifecycle](./diagrams/contributing.drawio.svg)
 
 Thank you for considering contributing to this repository! Every contribution helps make this project better for everyone.
 

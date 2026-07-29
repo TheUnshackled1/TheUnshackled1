@@ -1,12 +1,6 @@
 # Security Policy
 
-```mermaid
-graph TD
-    A[Vulnerability Discovered] --> B[Email Reporter to jtcoronel.chmsu@gmail.com]
-    B --> C[Acknowledgment & Initial Assessment]
-    C --> D[Triage & Patch Development]
-    D --> E[Verification & Security Release]
-```
+![Security Response Flow](./diagrams/security.drawio.svg)
 
 ## Supported Versions
 

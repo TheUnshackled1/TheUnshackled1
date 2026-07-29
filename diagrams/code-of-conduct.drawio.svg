@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="780px" height="235px" viewBox="-0.5 -0.5 780 235" content="&lt;mxfile host=&quot;app.diagrams.net&quot;&gt;&lt;diagram name=&quot;Code of Conduct Workflow&quot;&gt;&lt;mxGraphModel dx=&quot;1000&quot; dy=&quot;600&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;800&quot; pageHeight=&quot;500&quot;&gt;
+  &lt;root&gt;
+    &lt;mxCell id=&quot;0&quot;/&gt;
+    &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;
+    &lt;mxCell id=&quot;2&quot; value=&quot;Incident Occurs&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;fillColor=#1f6feb;strokeColor=#388bfd;fontColor=#ffffff;fontWeight=bold;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+      &lt;mxGeometry x=&quot;40&quot; y=&quot;40&quot; width=&quot;160&quot; height=&quot;50&quot; as=&quot;geometry&quot;/&gt;
+    &lt;/mxCell&gt;
+    &lt;mxCell id=&quot;3&quot; value=&quot;Report to jtcoronel.chmsu@gmail.com&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;fillColor=#238636;strokeColor=#2ea043;fontColor=#ffffff;fontWeight=bold;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+      &lt;mxGeometry x=&quot;250&quot; y=&quot;40&quot; width=&quot;260&quot; height=&quot;50&quot; as=&quot;geometry&quot;/&gt;
+    &lt;/mxCell&gt;
+    &lt;mxCell id=&quot;4&quot; value=&quot;Review &amp;amp; Investigation&quot; style=&quot;rounded=1;whiteSpace=wrap;html=1;fillColor=#8957e5;strokeColor=#a371f7;fontColor=#ffffff;fontWeight=bold;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+      &lt;mxGeometry x=&quot;560&quot; y=&quot;40&quot; width=&quot;180&quot; height=&quot;50&quot; as=&quot;geometry&quot;/&gt;
+    &lt;/mxCell&gt;
+    &lt;mxCell id=&quot;5&quot; value=&quot;Impact Assessment&quot; style=&quot;rhombus;whiteSpace=wrap;html=1;fillColor=#d29922;strokeColor=#e3b341;fontColor=#ffffff;fontWeight=bold;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+      &lt;mxGeometry x=&quot;560&quot; y=&quot;140&quot; width=&quot;180&quot; height=&quot;80&quot; as=&quot;geometry&quot;/&gt;
+    &lt;/mxCell&gt;
+  &lt;/root&gt;
+&lt;/mxGraphModel&gt;&lt;/diagram&gt;&lt;/mxfile&gt;">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;display=swap');
+      text { font-family: 'Inter', sans-serif; }
+    </style>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="card-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f6feb" />
+      <stop offset="100%" stop-color="#1158c7" />
+    </linearGradient>
+    <linearGradient id="card-green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#238636" />
+      <stop offset="100%" stop-color="#196c2e" />
+    </linearGradient>
+    <linearGradient id="card-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8957e5" />
+      <stop offset="100%" stop-color="#6e40c9" />
+    </linearGradient>
+    <linearGradient id="card-orange" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d29922" />
+      <stop offset="100%" stop-color="#bb8009" />
+    </linearGradient>
+    <filter id="drop-shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" rx="12" fill="url(#bg-grad)" stroke="#30363d" stroke-width="1.5"/>
+
+  
+  <g filter="url(#drop-shadow)">
+    <!-- Header Title -->
+    <text x="30" y="38" fill="#58a6ff" font-size="16" font-weight="600">Code of Conduct — Incident Resolution Workflow</text>
+
+    <!-- Node 1 -->
+    <rect x="30" y="60" width="160" height="45" rx="8" fill="url(#card-blue)" stroke="#58a6ff" stroke-width="1.5"/>
+    <text x="110" y="87" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">Incident Occurs</text>
+
+    <!-- Arrow 1 -->
+    <path d="M 190 82.5 L 230 82.5" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+    <polygon points="236,82.5 226,77.5 226,87.5" fill="#8b949e"/>
+
+    <!-- Node 2 -->
+    <rect x="236" y="60" width="270" height="45" rx="8" fill="url(#card-green)" stroke="#39d353" stroke-width="1.5"/>
+    <text x="371" y="87" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">Report to Maintainer</text>
+
+    <!-- Arrow 2 -->
+    <path d="M 506 82.5 L 546 82.5" stroke="#8b949e" stroke-width="2"/>
+    <polygon points="552,82.5 542,77.5 542,87.5" fill="#8b949e"/>
+
+    <!-- Node 3 -->
+    <rect x="552" y="60" width="190" height="45" rx="8" fill="url(#card-purple)" stroke="#d2a8ff" stroke-width="1.5"/>
+    <text x="647" y="87" fill="#ffffff" font-size="13" font-weight="600" text-anchor="middle">Review &amp; Assessment</text>
+
+    <!-- Arrow 3 (down) -->
+    <path d="M 647 105 L 647 145" stroke="#8b949e" stroke-width="2"/>
+    <polygon points="647,151 642,141 652,141" fill="#8b949e"/>
+
+    <!-- Resolution Levels -->
+    <rect x="30" y="160" width="165" height="50" rx="8" fill="#161b22" stroke="#388bfd" stroke-width="1.5"/>
+    <text x="112" y="182" fill="#58a6ff" font-size="12" font-weight="600" text-anchor="middle">Level 1: Correction</text>
+    <text x="112" y="198" fill="#8b949e" font-size="11" text-anchor="middle">Private Warning</text>
+
+    <rect x="215" y="160" width="165" height="50" rx="8" fill="#161b22" stroke="#e3b341" stroke-width="1.5"/>
+    <text x="297" y="182" fill="#e3b341" font-size="12" font-weight="600" text-anchor="middle">Level 2: Warning</text>
+    <text x="297" y="198" fill="#8b949e" font-size="11" text-anchor="middle">Interaction Limit</text>
+
+    <rect x="400" y="160" width="165" height="50" rx="8" fill="#161b22" stroke="#f78166" stroke-width="1.5"/>
+    <text x="482" y="182" fill="#f78166" font-size="12" font-weight="600" text-anchor="middle">Level 3: Temp Ban</text>
+    <text x="482" y="198" fill="#8b949e" font-size="11" text-anchor="middle">Timed Exclusion</text>
+
+    <rect x="585" y="160" width="165" height="50" rx="8" fill="#161b22" stroke="#ff7b72" stroke-width="1.5"/>
+    <text x="667" y="182" fill="#ff7b72" font-size="12" font-weight="600" text-anchor="middle">Level 4: Perm Ban</text>
+    <text x="667" y="198" fill="#8b949e" font-size="11" text-anchor="middle">Permanent Removal</text>
+  </g>
+
+</svg>
