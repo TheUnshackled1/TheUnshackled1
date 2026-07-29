@@ -1,6 +1,6 @@
 <div align="center">
 
-> # <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" /> John Tyrone P. Coronel <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" />
+# <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" /> John Tyrone P. Coronel <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" />
 
 **`Currently a 4th Year Student at Carlos Hilado Memorial State University`**
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-> ## About Me
+## About Me
 
 <div>
   <strong>
