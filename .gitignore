@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+
+# Intermediate build artifacts (run prep_photo.py locally to regenerate)
+scripts/source-prepped.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
