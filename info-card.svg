@@ -1,6 +1,6 @@
         <svg xmlns="http://www.w3.org/2000/svg"
-             width="490" height="400"
-             viewBox="0 0 490 400">
+             width="490" height="380"
+             viewBox="0 0 490 380">
 
           <style>
             text {
@@ -17,7 +17,7 @@
           </style>
 
           <!-- card background -->
-          <rect width="490" height="400" rx="10" ry="10"
+          <rect width="490" height="380" rx="10" ry="10"
                 fill="#0d1117" stroke="#30363d" stroke-width="1"/>
 
           <!-- title bar -->
@@ -41,8 +41,8 @@
   <text x="22" y="74" fill="#58a6ff" font-weight="bold" font-size="15" class="reveal" style="animation-delay:0.00s;opacity:0;transform:translateX(-12px)">tyrone@github</text>
   <text x="22" y="96" fill="#8b949e" class="reveal" style="animation-delay:0.07s;opacity:0;transform:translateX(-12px)">────────────────────────────</text>
   <text x="22" y="118" class="reveal" style="animation-delay:0.14s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Name   : </tspan><tspan fill="#c9d1d9">John Tyrone P. Coronel</tspan></text>
-  <text x="22" y="140" class="reveal" style="animation-delay:0.21s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Status : </tspan><tspan fill="#39d353">4th Year CS Student</tspan></text>
-  <text x="22" y="162" class="reveal" style="animation-delay:0.28s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">School : </tspan><tspan fill="#c9d1d9">CHMSU — Victorias City</tspan></text>
+  <text x="22" y="140" class="reveal" style="animation-delay:0.21s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Status : </tspan><tspan fill="#39d353">4th Year BSIS Student</tspan></text>
+  <text x="22" y="162" class="reveal" style="animation-delay:0.28s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">School : </tspan><tspan fill="#c9d1d9">Carlos Hilado Memorial State University</tspan></text>
   <text x="22" y="184" fill="#8b949e" class="reveal" style="animation-delay:0.35s;opacity:0;transform:translateX(-12px)">────────────────────────────</text>
   <text x="22" y="206" class="reveal" style="animation-delay:0.42s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Stack  : </tspan><tspan fill="#c9d1d9">Python · Django · Django REST</tspan></text>
   <text x="22" y="228" class="reveal" style="animation-delay:0.49s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">        : </tspan><tspan fill="#c9d1d9">JavaScript · HTML/CSS/SCSS</tspan></text>
