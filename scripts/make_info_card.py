@@ -139,7 +139,7 @@ def build_svg() -> str:
 
     # Title bar dots
     dots_y = TITLE_BAR_H // 2
-    title_text = "avi@github: ~/profile"
+    title_text = "tyrone@github: ~/profile"
 
     svg = textwrap.dedent(f"""\
         <svg xmlns="http://www.w3.org/2000/svg"
@@ -186,11 +186,11 @@ def build_svg() -> str:
 
 
 def main():
-    print("[make_info_card] Building SVG …")
+    print("[make_info_card] Building SVG ...")
     svg = build_svg()
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(svg, encoding="utf-8")
-    print(f"[make_info_card] Saved → {OUTPUT}")
+    print(f"[make_info_card] Saved -> {OUTPUT}")
 
 
 if __name__ == "__main__":

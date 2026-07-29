@@ -73,7 +73,7 @@ def main():
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     result.save(OUTPUT)
-    print(f"[prep_photo] Saved → {OUTPUT}")
+    print(f"[prep_photo] Saved -> {OUTPUT}")
 
 
 if __name__ == "__main__":

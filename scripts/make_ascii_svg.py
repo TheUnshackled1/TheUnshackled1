@@ -178,7 +178,7 @@ def main():
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(svg, encoding="utf-8")
-    print(f"[make_ascii_svg] Saved → {OUTPUT}")
+    print(f"[make_ascii_svg] Saved -> {OUTPUT}")
 
 
 if __name__ == "__main__":

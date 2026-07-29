@@ -1,0 +1,1449 @@
+        <svg xmlns="http://www.w3.org/2000/svg"
+             width="600" height="609"
+             viewBox="0 0 600 609">
+
+          <style>
+            text {
+              font-family: 'Courier New', Courier, monospace;
+              font-size: 10px;
+              white-space: pre;
+            }
+          </style>
+
+          <!-- background -->
+          <rect width="100%" height="100%" fill="#0d1117"/>
+
+          <defs>
+    <clipPath id="c0">
+      <rect id="c0r" x="0" y="0.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.000s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c1">
+      <rect id="c1r" x="0" y="10.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.045s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c2">
+      <rect id="c2r" x="0" y="21.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.090s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c3">
+      <rect id="c3r" x="0" y="31.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.135s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c4">
+      <rect id="c4r" x="0" y="42.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.180s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c5">
+      <rect id="c5r" x="0" y="52.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.225s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c6">
+      <rect id="c6r" x="0" y="63.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.270s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c7">
+      <rect id="c7r" x="0" y="73.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.315s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c8">
+      <rect id="c8r" x="0" y="84.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.360s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c9">
+      <rect id="c9r" x="0" y="94.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.405s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c10">
+      <rect id="c10r" x="0" y="105.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.450s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c11">
+      <rect id="c11r" x="0" y="115.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.495s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c12">
+      <rect id="c12r" x="0" y="126.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.540s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c13">
+      <rect id="c13r" x="0" y="136.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.585s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c14">
+      <rect id="c14r" x="0" y="147.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.630s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c15">
+      <rect id="c15r" x="0" y="157.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.675s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c16">
+      <rect id="c16r" x="0" y="168.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.720s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c17">
+      <rect id="c17r" x="0" y="178.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.765s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c18">
+      <rect id="c18r" x="0" y="189.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.810s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c19">
+      <rect id="c19r" x="0" y="199.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.855s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c20">
+      <rect id="c20r" x="0" y="210.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.900s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c21">
+      <rect id="c21r" x="0" y="220.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.945s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c22">
+      <rect id="c22r" x="0" y="231.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="0.990s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c23">
+      <rect id="c23r" x="0" y="241.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.035s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c24">
+      <rect id="c24r" x="0" y="252.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.080s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c25">
+      <rect id="c25r" x="0" y="262.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.125s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c26">
+      <rect id="c26r" x="0" y="273.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.170s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c27">
+      <rect id="c27r" x="0" y="283.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.215s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c28">
+      <rect id="c28r" x="0" y="294.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.260s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c29">
+      <rect id="c29r" x="0" y="304.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.305s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c30">
+      <rect id="c30r" x="0" y="315.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.350s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c31">
+      <rect id="c31r" x="0" y="325.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.395s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c32">
+      <rect id="c32r" x="0" y="336.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.440s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c33">
+      <rect id="c33r" x="0" y="346.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.485s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c34">
+      <rect id="c34r" x="0" y="357.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.530s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c35">
+      <rect id="c35r" x="0" y="367.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.575s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c36">
+      <rect id="c36r" x="0" y="378.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.620s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c37">
+      <rect id="c37r" x="0" y="388.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.665s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c38">
+      <rect id="c38r" x="0" y="399.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.710s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c39">
+      <rect id="c39r" x="0" y="409.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.755s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c40">
+      <rect id="c40r" x="0" y="420.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.800s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c41">
+      <rect id="c41r" x="0" y="430.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.845s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c42">
+      <rect id="c42r" x="0" y="441.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.890s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c43">
+      <rect id="c43r" x="0" y="451.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.935s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c44">
+      <rect id="c44r" x="0" y="462.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="1.980s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c45">
+      <rect id="c45r" x="0" y="472.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.025s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c46">
+      <rect id="c46r" x="0" y="483.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.070s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c47">
+      <rect id="c47r" x="0" y="493.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.115s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c48">
+      <rect id="c48r" x="0" y="504.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.160s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c49">
+      <rect id="c49r" x="0" y="514.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.205s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c50">
+      <rect id="c50r" x="0" y="525.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.250s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c51">
+      <rect id="c51r" x="0" y="535.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.295s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c52">
+      <rect id="c52r" x="0" y="546.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.340s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c53">
+      <rect id="c53r" x="0" y="556.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.385s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c54">
+      <rect id="c54r" x="0" y="567.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.430s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c55">
+      <rect id="c55r" x="0" y="577.5" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.475s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c56">
+      <rect id="c56r" x="0" y="588.0" width="0" height="10.5">
+        <animate
+          attributeName="width"
+          from="0" to="600.0"
+          begin="2.520s" dur="0.350s"
+          fill="freeze"
+          calcMode="linear"/>
+      </rect>
+    </clipPath>
+</defs>
+
+          <!-- cursor layer -->
+
+  <rect id="cur0" x="0" y="0.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.000s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.000s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur1" x="0" y="10.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.045s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.045s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur2" x="0" y="21.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.090s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.090s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur3" x="0" y="31.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.135s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.135s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur4" x="0" y="42.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.180s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.180s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur5" x="0" y="52.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.225s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.225s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur6" x="0" y="63.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.270s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.270s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur7" x="0" y="73.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.315s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.315s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur8" x="0" y="84.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.360s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.360s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur9" x="0" y="94.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.405s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.405s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur10" x="0" y="105.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.450s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.450s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur11" x="0" y="115.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.495s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.495s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur12" x="0" y="126.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.540s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.540s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur13" x="0" y="136.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.585s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.585s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur14" x="0" y="147.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.630s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.630s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur15" x="0" y="157.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.675s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.675s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur16" x="0" y="168.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.720s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.720s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur17" x="0" y="178.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.765s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.765s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur18" x="0" y="189.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.810s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.810s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur19" x="0" y="199.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.855s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.855s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur20" x="0" y="210.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.900s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.900s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur21" x="0" y="220.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.945s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.945s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur22" x="0" y="231.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.990s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.990s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur23" x="0" y="241.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.035s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.035s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur24" x="0" y="252.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.080s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.080s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur25" x="0" y="262.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.125s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.125s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur26" x="0" y="273.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.170s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.170s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur27" x="0" y="283.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.215s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.215s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur28" x="0" y="294.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.260s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.260s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur29" x="0" y="304.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.305s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.305s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur30" x="0" y="315.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.350s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.350s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur31" x="0" y="325.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.395s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.395s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur32" x="0" y="336.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.440s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.440s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur33" x="0" y="346.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.485s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.485s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur34" x="0" y="357.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.530s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.530s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur35" x="0" y="367.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.575s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.575s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur36" x="0" y="378.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.620s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.620s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur37" x="0" y="388.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.665s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.665s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur38" x="0" y="399.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.710s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.710s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur39" x="0" y="409.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.755s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.755s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur40" x="0" y="420.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.800s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.800s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur41" x="0" y="430.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.845s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.845s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur42" x="0" y="441.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.890s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.890s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur43" x="0" y="451.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.935s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.935s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur44" x="0" y="462.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="1.980s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="1.980s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur45" x="0" y="472.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.025s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.025s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur46" x="0" y="483.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.070s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.070s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur47" x="0" y="493.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.115s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.115s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur48" x="0" y="504.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.160s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.160s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur49" x="0" y="514.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.205s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.205s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur50" x="0" y="525.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.250s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.250s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur51" x="0" y="535.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.295s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.295s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur52" x="0" y="546.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.340s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.340s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur53" x="0" y="556.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.385s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.385s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur54" x="0" y="567.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.430s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.430s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur55" x="0" y="577.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.475s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.475s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur56" x="0" y="588.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <!-- appear at start of wipe -->
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="2.520s" dur="0.450s"
+      fill="freeze"/>
+    <!-- slide across the row -->
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="2.520s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+
+          <!-- ASCII text rows -->
+            <text clip-path="url(#c0)" x="0" y="10.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c1)" x="0" y="21.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c2)" x="0" y="31.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c3)" x="0" y="42.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@%#sc+++=+++*css##%%%@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c4)" x="0" y="52.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@%s*=:''````````':::::--=+c#%%@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c5)" x="0" y="63.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@%#c=:'````````````````'''````':=*s#%@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c6)" x="0" y="73.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@%s*-''`````.....``````````''```'```:-+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c7)" x="0" y="84.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@%@%c=:'`'`````...........```````...```````-*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c8)" x="0" y="94.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@%@#-'`'''````.`...............````......````:+c%@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c9)" x="0" y="105.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@%@%+'''''`...```...........``````.```````..``.`=c#@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c10)" x="0" y="115.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@%@s:'''```````..... ............. ....  ..` .  '*s%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c11)" x="0" y="126.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%@%+`````````..........``'':::::::----::'`.... ..:*#@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c12)" x="0" y="136.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@%s:.``.......`````'':--==+++**+++++**+++-:`...  .=#@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c13)" x="0" y="147.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@%@%=.``.....`':-=====++++*****cc****cccc***+-'... .:#@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c14)" x="0" y="157.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@%@%-......`'-=++**************cccccccsccc***+-'`.. 's@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c15)" x="0" y="168.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@%+.`````:+*c**ccc****c***********ccccccccc*=:'`. '#@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c16)" x="0" y="178.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%@c'''':=+*ccc*ccc******************ccccccc**=:'`.-%@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c17)" x="0" y="189.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%@#::--+ccccc**ccc*********+*********ccccc***+-::`*@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c18)" x="0" y="199.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%@%-:=+cccccccccccccccccccc*cc*****ccccccccccc+=:'s@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c19)" x="0" y="210.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%%@+-csssssssssssscccccssssccscccscssssssssscccc--%%%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c20)" x="0" y="220.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@%@s=#s##ssc*csssssscccsssssscssssss####ssssssss=*@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c21)" x="0" y="231.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%@#cc-:cs#c+=--::::-=+*cccccccccccccc*++====+++ccc--s#%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c22)" x="0" y="241.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%@+:+'-=+=-::::'`....`'-=+**cc**+=-:`...``'::--==-:'*=s@%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c23)" x="0" y="252.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%@*`='.`.':'''''....```..`:-==-'```.`..``''::::'.`':-:s@%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c24)" x="0" y="262.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%@#===:.+*--:''-'..::'':'.''::'.:-''''..`+-::-=*+ `===%@%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c25)" x="0" y="273.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@%@#*-c*cs*++=-=----::::::=css+:-=-:::::-+=+++*ss-***s@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c26)" x="0" y="283.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%@#+cs+scc**+++====+=-':c###s-'=++=-==+++*ccc#ccs*c%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c27)" x="0" y="294.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%%%css**cccc***++****=-c#####s-=*c**++**cccs#s*ssc#@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c28)" x="0" y="304.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@%@scsc*++++++++++==-=s#######s==++++*++***cc*csss%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c29)" x="0" y="315.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@%@%ccc****+++===--:=cs#######sc--====++***ccsccc#@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c30)" x="0" y="325.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@%#c+**cccc***+-+ss###s#####sc==+*ccsssssc*cs#@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c31)" x="0" y="336.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@%@%sc***cc***+==cc*+=++**++css*=+**cssssc**c@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c32)" x="0" y="346.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#c***********=:````'':''':=*c*+*ccc**c**#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c33)" x="0" y="357.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s***++**cccc**+====-====+*cccccc******s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c34)" x="0" y="367.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%c*+*******c***++*++*c*cccccccc**+***c%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c35)" x="0" y="378.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@%c****+-:'-=:::::------===--=+*****c%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c36)" x="0" y="388.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@s-**++++==-:``''``````''``'::-+**+*c@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c37)" x="0" y="399.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@%%@%+.:s++=+++*c*+---=======--+*c*+====***@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c38)" x="0" y="409.5" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%%@@c:.`#%c++=+****c*=--::::-=+*cc***+==+*#`=%@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c39)" x="0" y="420.0" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@%%%%@@s-``.=%%#c+==+cc***+==--:-=+***ccc*=+++c%+ -s@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c40)" x="0" y="430.5" fill="#c9d1d9">@@@@@@@@@@@@@@@%%%%@@@@#=`.``.=%#%#c+==+*cccc***++**cccccc*=+*+c#%s`.'=#@@@%%%%@@@@@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c41)" x="0" y="441.0" fill="#c9d1d9">@@@@@@@@@@@%%%%@@@@%s*='..``. :####%#*=--+**cc******ccc******+s%%##'.```=c%@@@@%%%%@@@@@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c42)" x="0" y="451.5" fill="#c9d1d9">@@@@@@%%%%%@@@@%#c=:`..........c######s*-::-==--======+++*++*#%%%#s'..`...'-+s%@@@@@%%%@@@@@@@@@@@@@</text>
+  <text clip-path="url(#c43)" x="0" y="462.0" fill="#c9d1d9">@%%%%%@@@@@%s*=:`.....`....... -########s*-::--::---=+++=-+s%%%%##c.....`.....'-+s#@@@@%%%%%@@@@@@@@</text>
+  <text clip-path="url(#c44)" x="0" y="472.5" fill="#c9d1d9">%@@@@@%#c+-:``........```.......*##########c=:----==++-:=c%%%%%###-.........`....`'-+s%@@@@@%%%%@@@@</text>
+  <text clip-path="url(#c45)" x="0" y="483.0" fill="#c9d1d9">@%#s*=:'`..```....`````````.....:cs##########c+=====-:=c#%%%%%%##c`.........``..```..`'-+c#%@@@@@%%%</text>
+  <text clip-path="url(#c46)" x="0" y="493.5" fill="#c9d1d9">=:''`......`.....``````````......=ss##########%#*++=*s#%%%%%%%##s=.........``````..````..`':=*s#%@@@</text>
+  <text clip-path="url(#c47)" x="0" y="504.0" fill="#c9d1d9">`..`.......`........`````........:cs#####%%%%%c=:--:+#%%%%%%%%##c:.`..`........``.`...``......`':=*s</text>
+  <text clip-path="url(#c48)" x="0" y="514.5" fill="#c9d1d9">..........`............`.......`.`+s#####%%@s-.     .`=#@%%%%%##*'.`......``......................``</text>
+  <text clip-path="url(#c49)" x="0" y="525.0" fill="#c9d1d9">............```........`..........-cs####%%=..`.....``..+%%%%%#s+`.`.......`.........``..........`..</text>
+  <text clip-path="url(#c50)" x="0" y="535.5" fill="#c9d1d9">............````..`````...........'*s##%%s-  .``...``` .`=#%%%#c=.```.`...`````````````....`........</text>
+  <text clip-path="url(#c51)" x="0" y="546.0" fill="#c9d1d9">.......``..```..`````````..........=s#%%c=--'..````'. '==-=s%%#c:.`..```..``..``````...```.`........</text>
+  <text clip-path="url(#c52)" x="0" y="556.5" fill="#c9d1d9">.......````````.`````````..........'*ss*++++==`.``'`.=***+++*#s+`.`.`.`````..```.````.```...........</text>
+  <text clip-path="url(#c53)" x="0" y="567.0" fill="#c9d1d9">........```.```..`````.``..........`+cccs****c=.```.'sscccsc**c-.```.````.`````..`..`..............`</text>
+  <text clip-path="url(#c54)" x="0" y="577.5" fill="#c9d1d9">`...........````..``..````..........=#ss#s**cs:.`''``s#ccsssscc:.`````````````..``.```.``....```..``</text>
+  <text clip-path="url(#c55)" x="0" y="588.0" fill="#c9d1d9">.......``...`.....```````...........'s#s##c**=..`''` :#ccs#sscc'.`````````````..````````````````````</text>
+  <text clip-path="url(#c56)" x="0" y="598.5" fill="#c9d1d9">.`....```````.````.```````.........`.*#s##sc=..``'''. =sc##ssc+.``````````````.``.``````````````````</text>
+
+        </svg>
