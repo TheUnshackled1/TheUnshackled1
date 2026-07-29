@@ -135,10 +135,6 @@ def build_svg() -> str:
           <circle cx="36" cy="{dots_y}" r="6" fill="{DOT_YEL}"/>
           <circle cx="54" cy="{dots_y}" r="6" fill="{DOT_GRN}"/>
 
-          <text x="{CARD_W // 2}" y="{dots_y + 4}"
-                fill="{DIM_COLOR}" font-size="12"
-                text-anchor="middle">{title_text}</text>
-
           {"".join(chr(10) + l for l in lines_svg)}
 
           {"".join(chr(10) + s for s in swatches_svg)}

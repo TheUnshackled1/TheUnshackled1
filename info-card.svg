@@ -28,10 +28,6 @@
           <circle cx="36" cy="15" r="6" fill="#ffbd2e"/>
           <circle cx="54" cy="15" r="6" fill="#28c840"/>
 
-          <text x="245" y="19"
-                fill="#8b949e" font-size="12"
-                text-anchor="middle">tyrone@github: ~/profile</text>
-
 
   <text x="22" y="74" class="reveal" style="animation-delay:0.00s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Name   : </tspan><tspan fill="#c9d1d9">John Tyrone P. Coronel</tspan></text>
   <text x="22" y="96" class="reveal" style="animation-delay:0.07s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Status : </tspan><tspan fill="#39d353">4th Year BSIS Student</tspan></text>
