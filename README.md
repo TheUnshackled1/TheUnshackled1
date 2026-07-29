@@ -1,6 +1,12 @@
 <div align="center">
 
-<h3><code>tyrone@github ~ $ whoami</code></h3>
+> # <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" /> John Tyrone P. Coronel <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" />
+
+**`Currently a 4th Year Student at Carlos Hilado Memorial State University`**
+
+[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-JOHNTYRONEPORTFOLIO.VERCEL.APP-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://johntyroneportfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/coronel-john-tyrone-474299339) [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtcoronel.chmsu@gmail.com)
+
+<br>
 
 <table>
   <tr>
@@ -14,14 +20,6 @@
 ---
 
 <div align="center">
-
-> # <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" /> John Tyrone P. Coronel <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px" />
-
-**`Currently a 4th Year Student at Carlos Hilado Memorial State University`**
-
-[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-JOHNTYRONEPORTFOLIO.VERCEL.APP-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://johntyroneportfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/coronel-john-tyrone-474299339) [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtcoronel.chmsu@gmail.com)
-
----
 
 > ## About Me
 
