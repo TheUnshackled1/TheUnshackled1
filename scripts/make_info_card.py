@@ -47,8 +47,6 @@ TITLE_BAR_H = 30          # height of macOS-style title bar
 # key=""    → hostname / banner line (val rendered full-width in key_color)
 
 INFO_ROWS = [
-    ("",          "tyrone@github",                    KEY_COLOR,  KEY_COLOR),
-    (None,        "─" * 28,                           DIM_COLOR,  DIM_COLOR),
     ("Name   ",   "John Tyrone P. Coronel",           KEY_COLOR,  VAL_COLOR),
     ("Status ",   "4th Year BSIS Student",              KEY_COLOR,  HL_COLOR),
     ("School ",   "Carlos Hilado Memorial State University",           KEY_COLOR,  VAL_COLOR),
