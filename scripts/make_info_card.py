@@ -110,8 +110,6 @@ def build_svg() -> str:
         }""")
 
     dots_y = TITLE_BAR_H // 2
-    title_text = "tyrone@github: ~/profile"
-
     svg = textwrap.dedent(f"""\
         <svg xmlns="http://www.w3.org/2000/svg"
              width="{CARD_W}" height="{CARD_H}"
