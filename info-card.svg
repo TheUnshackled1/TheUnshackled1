@@ -30,27 +30,27 @@
 
 
   <text x="22" y="74" class="reveal" style="animation-delay:0.00s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Name   : </tspan><tspan fill="#c9d1d9">John Tyrone P. Coronel</tspan></text>
-  <text x="22" y="96" class="reveal" style="animation-delay:0.08s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Status : </tspan><tspan fill="#39d353">4th Year BSIS Student</tspan></text>
-  <text x="22" y="118" class="reveal" style="animation-delay:0.16s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">School : </tspan><tspan fill="#c9d1d9">Carlos Hilado Memorial State University</tspan></text>
-  <text x="22" y="140" fill="#8b949e" class="reveal" style="animation-delay:0.25s;opacity:0;transform:translateX(-12px)">────────────────────────────</text>
-  <text x="22" y="162" class="reveal" style="animation-delay:0.33s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Stack  : </tspan><tspan fill="#c9d1d9">Python · Django · Django REST</tspan></text>
-  <text x="22" y="184" class="reveal" style="animation-delay:0.41s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">        : </tspan><tspan fill="#c9d1d9">JavaScript · HTML/CSS/SCSS</tspan></text>
-  <text x="22" y="206" class="reveal" style="animation-delay:0.49s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">        : </tspan><tspan fill="#c9d1d9">PostgreSQL · SQLite</tspan></text>
-  <text x="22" y="228" fill="#8b949e" class="reveal" style="animation-delay:0.58s;opacity:0;transform:translateX(-12px)">────────────────────────────</text>
-  <text x="22" y="250" class="reveal" style="animation-delay:0.66s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Port   : </tspan><tspan fill="#39d353">johntyroneportfolio.vercel.app</tspan></text>
-  <text x="22" y="272" class="reveal" style="animation-delay:0.74s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Mail   : </tspan><tspan fill="#c9d1d9">jtcoronel.chmsu@gmail.com</tspan></text>
-  <text x="22" y="294" class="reveal" style="animation-delay:0.82s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">GitHub : </tspan><tspan fill="#c9d1d9">github.com/TheUnshackled1</tspan></text>
-  <text x="22" y="316" fill="#8b949e" class="reveal" style="animation-delay:0.91s;opacity:0;transform:translateX(-12px)">────────────────────────────</text>
-  <text x="22" y="338" class="reveal" style="animation-delay:0.99s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Goal   : </tspan><tspan fill="#c9d1d9">Building things that matter 🚀</tspan></text>
+  <text x="22" y="96" class="reveal" style="animation-delay:0.13s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Status : </tspan><tspan fill="#39d353">4th Year BSIS Student</tspan></text>
+  <text x="22" y="118" class="reveal" style="animation-delay:0.27s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">School : </tspan><tspan fill="#c9d1d9">Carlos Hilado Memorial State University</tspan></text>
+  <text x="22" y="140" fill="#8b949e" class="reveal" style="animation-delay:0.40s;opacity:0;transform:translateX(-12px)">────────────────────────────</text>
+  <text x="22" y="162" class="reveal" style="animation-delay:0.53s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Stack  : </tspan><tspan fill="#c9d1d9">Python · Django · Django REST</tspan></text>
+  <text x="22" y="184" class="reveal" style="animation-delay:0.66s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">        : </tspan><tspan fill="#c9d1d9">JavaScript · HTML/CSS/SCSS</tspan></text>
+  <text x="22" y="206" class="reveal" style="animation-delay:0.80s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">        : </tspan><tspan fill="#c9d1d9">PostgreSQL · SQLite</tspan></text>
+  <text x="22" y="228" fill="#8b949e" class="reveal" style="animation-delay:0.93s;opacity:0;transform:translateX(-12px)">────────────────────────────</text>
+  <text x="22" y="250" class="reveal" style="animation-delay:1.06s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Port   : </tspan><tspan fill="#39d353">johntyroneportfolio.vercel.app</tspan></text>
+  <text x="22" y="272" class="reveal" style="animation-delay:1.19s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Mail   : </tspan><tspan fill="#c9d1d9">jtcoronel.chmsu@gmail.com</tspan></text>
+  <text x="22" y="294" class="reveal" style="animation-delay:1.33s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">GitHub : </tspan><tspan fill="#c9d1d9">github.com/TheUnshackled1</tspan></text>
+  <text x="22" y="316" fill="#8b949e" class="reveal" style="animation-delay:1.46s;opacity:0;transform:translateX(-12px)">────────────────────────────</text>
+  <text x="22" y="338" class="reveal" style="animation-delay:1.59s;opacity:0;transform:translateX(-12px)"><tspan fill="#58a6ff" font-weight="bold">Goal   : </tspan><tspan fill="#c9d1d9">Building things that matter 🚀</tspan></text>
 
 
-  <rect x="159" y="350" width="18" height="18" rx="4" fill="#0e4429" style="animation-delay:1.07s;opacity:0" class="reveal"/>
-  <rect x="181" y="350" width="18" height="18" rx="4" fill="#006d32" style="animation-delay:1.15s;opacity:0" class="reveal"/>
-  <rect x="203" y="350" width="18" height="18" rx="4" fill="#26a641" style="animation-delay:1.24s;opacity:0" class="reveal"/>
-  <rect x="225" y="350" width="18" height="18" rx="4" fill="#39d353" style="animation-delay:1.32s;opacity:0" class="reveal"/>
-  <rect x="247" y="350" width="18" height="18" rx="4" fill="#58a6ff" style="animation-delay:1.40s;opacity:0" class="reveal"/>
-  <rect x="269" y="350" width="18" height="18" rx="4" fill="#79c0ff" style="animation-delay:1.48s;opacity:0" class="reveal"/>
-  <rect x="291" y="350" width="18" height="18" rx="4" fill="#e3b341" style="animation-delay:1.57s;opacity:0" class="reveal"/>
-  <rect x="313" y="350" width="18" height="18" rx="4" fill="#f78166" style="animation-delay:1.65s;opacity:0" class="reveal"/>
+  <rect x="159" y="350" width="18" height="18" rx="4" fill="#0e4429" style="animation-delay:1.72s;opacity:0" class="reveal"/>
+  <rect x="181" y="350" width="18" height="18" rx="4" fill="#006d32" style="animation-delay:1.85s;opacity:0" class="reveal"/>
+  <rect x="203" y="350" width="18" height="18" rx="4" fill="#26a641" style="animation-delay:1.99s;opacity:0" class="reveal"/>
+  <rect x="225" y="350" width="18" height="18" rx="4" fill="#39d353" style="animation-delay:2.12s;opacity:0" class="reveal"/>
+  <rect x="247" y="350" width="18" height="18" rx="4" fill="#58a6ff" style="animation-delay:2.25s;opacity:0" class="reveal"/>
+  <rect x="269" y="350" width="18" height="18" rx="4" fill="#79c0ff" style="animation-delay:2.39s;opacity:0" class="reveal"/>
+  <rect x="291" y="350" width="18" height="18" rx="4" fill="#e3b341" style="animation-delay:2.52s;opacity:0" class="reveal"/>
+  <rect x="313" y="350" width="18" height="18" rx="4" fill="#f78166" style="animation-delay:2.65s;opacity:0" class="reveal"/>
 
         </svg>

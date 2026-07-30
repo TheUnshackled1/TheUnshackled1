@@ -47,7 +47,7 @@ SWATCHES = ["#0e4429", "#006d32", "#26a641", "#39d353",
             "#58a6ff", "#79c0ff", "#e3b341", "#f78166"]
 
 
-TARGET_DUR  = 2.0  # seconds total animation reveal
+TARGET_DUR  = 3.0  # seconds total animation reveal
 ANIM_DUR    = 0.35
 TOTAL_ITEMS = len(INFO_ROWS) + len(SWATCHES)
 STEP_DELAY  = (TARGET_DUR - ANIM_DUR) / max(1, TOTAL_ITEMS - 1)
