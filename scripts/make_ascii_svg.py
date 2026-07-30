@@ -47,11 +47,12 @@ def build_svg(lines: list[str]) -> str:
     svg_w      = num_cols * FONT_W
     svg_h      = num_rows * FONT_H + FONT_H
 
-    ROW_DELAY  = 0.045
+    TARGET_DUR = 2.0  # seconds total animation reveal
     WIPE_DUR   = 0.35
     CURSOR_DUR = 0.10
 
-    total_dur  = num_rows * ROW_DELAY + WIPE_DUR + 0.5
+    ROW_DELAY  = (TARGET_DUR - WIPE_DUR) / max(1, num_rows - 1)
+    total_dur  = TARGET_DUR + 0.5
 
     defs_parts = []
     text_parts = []
