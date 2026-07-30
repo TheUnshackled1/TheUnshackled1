@@ -28,7 +28,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.047s" dur="0.350s"
+          begin="0.065s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -38,7 +38,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.095s" dur="0.350s"
+          begin="0.130s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -48,7 +48,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.142s" dur="0.350s"
+          begin="0.196s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -58,7 +58,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.189s" dur="0.350s"
+          begin="0.261s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -68,7 +68,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.237s" dur="0.350s"
+          begin="0.326s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -78,7 +78,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.284s" dur="0.350s"
+          begin="0.391s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -88,7 +88,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.331s" dur="0.350s"
+          begin="0.456s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -98,7 +98,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.379s" dur="0.350s"
+          begin="0.521s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -108,7 +108,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.426s" dur="0.350s"
+          begin="0.587s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -118,7 +118,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.473s" dur="0.350s"
+          begin="0.652s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -128,7 +128,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.521s" dur="0.350s"
+          begin="0.717s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -138,7 +138,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.568s" dur="0.350s"
+          begin="0.782s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -148,7 +148,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.615s" dur="0.350s"
+          begin="0.847s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -158,7 +158,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.662s" dur="0.350s"
+          begin="0.913s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -168,7 +168,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.710s" dur="0.350s"
+          begin="0.978s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -178,7 +178,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.757s" dur="0.350s"
+          begin="1.043s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -188,7 +188,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.804s" dur="0.350s"
+          begin="1.108s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -198,7 +198,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.852s" dur="0.350s"
+          begin="1.173s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -208,7 +208,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.899s" dur="0.350s"
+          begin="1.238s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -218,7 +218,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.946s" dur="0.350s"
+          begin="1.304s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -228,7 +228,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="0.994s" dur="0.350s"
+          begin="1.369s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -238,7 +238,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.041s" dur="0.350s"
+          begin="1.434s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -248,7 +248,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.088s" dur="0.350s"
+          begin="1.499s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -258,7 +258,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.136s" dur="0.350s"
+          begin="1.564s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -268,7 +268,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.183s" dur="0.350s"
+          begin="1.629s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -278,7 +278,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.230s" dur="0.350s"
+          begin="1.695s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -288,7 +288,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.278s" dur="0.350s"
+          begin="1.760s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -298,7 +298,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.325s" dur="0.350s"
+          begin="1.825s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -308,7 +308,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.372s" dur="0.350s"
+          begin="1.890s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -318,7 +318,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.420s" dur="0.350s"
+          begin="1.955s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -328,7 +328,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.467s" dur="0.350s"
+          begin="2.021s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -338,7 +338,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.514s" dur="0.350s"
+          begin="2.086s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -348,7 +348,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.562s" dur="0.350s"
+          begin="2.151s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -358,7 +358,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.609s" dur="0.350s"
+          begin="2.216s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -368,7 +368,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.656s" dur="0.350s"
+          begin="2.281s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -378,7 +378,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.704s" dur="0.350s"
+          begin="2.346s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -388,7 +388,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.751s" dur="0.350s"
+          begin="2.412s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -398,7 +398,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.798s" dur="0.350s"
+          begin="2.477s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -408,7 +408,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.846s" dur="0.350s"
+          begin="2.542s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -418,7 +418,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.893s" dur="0.350s"
+          begin="2.607s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -428,7 +428,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.940s" dur="0.350s"
+          begin="2.672s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -438,7 +438,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="1.987s" dur="0.350s"
+          begin="2.738s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -448,7 +448,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.035s" dur="0.350s"
+          begin="2.803s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -458,7 +458,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.082s" dur="0.350s"
+          begin="2.868s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -468,7 +468,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.129s" dur="0.350s"
+          begin="2.933s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -478,7 +478,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.177s" dur="0.350s"
+          begin="2.998s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -488,7 +488,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.224s" dur="0.350s"
+          begin="3.063s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -498,7 +498,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.271s" dur="0.350s"
+          begin="3.129s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -508,7 +508,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.319s" dur="0.350s"
+          begin="3.194s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -518,7 +518,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.366s" dur="0.350s"
+          begin="3.259s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -528,7 +528,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.413s" dur="0.350s"
+          begin="3.324s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -538,7 +538,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.461s" dur="0.350s"
+          begin="3.389s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -548,7 +548,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.508s" dur="0.350s"
+          begin="3.454s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -558,7 +558,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.555s" dur="0.350s"
+          begin="3.520s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -568,7 +568,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.603s" dur="0.350s"
+          begin="3.585s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -578,7 +578,7 @@
         <animate
           attributeName="width"
           from="0" to="600.0"
-          begin="2.650s" dur="0.350s"
+          begin="3.650s" dur="0.350s"
           fill="freeze"
           calcMode="linear"/>
       </rect>
@@ -603,11 +603,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.047s" dur="0.450s"
+      begin="0.065s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.047s" dur="0.350s"
+      begin="0.065s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur2" x="0" y="21.0" width="6.0" height="10.5"
@@ -615,11 +615,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.095s" dur="0.450s"
+      begin="0.130s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.095s" dur="0.350s"
+      begin="0.130s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur3" x="0" y="31.5" width="6.0" height="10.5"
@@ -627,11 +627,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.142s" dur="0.450s"
+      begin="0.196s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.142s" dur="0.350s"
+      begin="0.196s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur4" x="0" y="42.0" width="6.0" height="10.5"
@@ -639,11 +639,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.189s" dur="0.450s"
+      begin="0.261s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.189s" dur="0.350s"
+      begin="0.261s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur5" x="0" y="52.5" width="6.0" height="10.5"
@@ -651,11 +651,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.237s" dur="0.450s"
+      begin="0.326s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.237s" dur="0.350s"
+      begin="0.326s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur6" x="0" y="63.0" width="6.0" height="10.5"
@@ -663,11 +663,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.284s" dur="0.450s"
+      begin="0.391s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.284s" dur="0.350s"
+      begin="0.391s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur7" x="0" y="73.5" width="6.0" height="10.5"
@@ -675,50 +675,14 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.331s" dur="0.450s"
+      begin="0.456s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.331s" dur="0.350s"
+      begin="0.456s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur8" x="0" y="84.0" width="6.0" height="10.5"
-        fill="#58a6ff" opacity="0.85">
-    <animate attributeName="opacity"
-      values="0;0.85;0.85;0"
-      keyTimes="0;0.001;0.95;1"
-      begin="0.379s" dur="0.450s"
-      fill="freeze"/>
-    <animate attributeName="x"
-      from="0" to="600.0"
-      begin="0.379s" dur="0.350s"
-      fill="freeze" calcMode="linear"/>
-  </rect>
-  <rect id="cur9" x="0" y="94.5" width="6.0" height="10.5"
-        fill="#58a6ff" opacity="0.85">
-    <animate attributeName="opacity"
-      values="0;0.85;0.85;0"
-      keyTimes="0;0.001;0.95;1"
-      begin="0.426s" dur="0.450s"
-      fill="freeze"/>
-    <animate attributeName="x"
-      from="0" to="600.0"
-      begin="0.426s" dur="0.350s"
-      fill="freeze" calcMode="linear"/>
-  </rect>
-  <rect id="cur10" x="0" y="105.0" width="6.0" height="10.5"
-        fill="#58a6ff" opacity="0.85">
-    <animate attributeName="opacity"
-      values="0;0.85;0.85;0"
-      keyTimes="0;0.001;0.95;1"
-      begin="0.473s" dur="0.450s"
-      fill="freeze"/>
-    <animate attributeName="x"
-      from="0" to="600.0"
-      begin="0.473s" dur="0.350s"
-      fill="freeze" calcMode="linear"/>
-  </rect>
-  <rect id="cur11" x="0" y="115.5" width="6.0" height="10.5"
         fill="#58a6ff" opacity="0.85">
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
@@ -730,16 +694,52 @@
       begin="0.521s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
+  <rect id="cur9" x="0" y="94.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.587s" dur="0.450s"
+      fill="freeze"/>
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.587s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur10" x="0" y="105.0" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.652s" dur="0.450s"
+      fill="freeze"/>
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.652s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
+  <rect id="cur11" x="0" y="115.5" width="6.0" height="10.5"
+        fill="#58a6ff" opacity="0.85">
+    <animate attributeName="opacity"
+      values="0;0.85;0.85;0"
+      keyTimes="0;0.001;0.95;1"
+      begin="0.717s" dur="0.450s"
+      fill="freeze"/>
+    <animate attributeName="x"
+      from="0" to="600.0"
+      begin="0.717s" dur="0.350s"
+      fill="freeze" calcMode="linear"/>
+  </rect>
   <rect id="cur12" x="0" y="126.0" width="6.0" height="10.5"
         fill="#58a6ff" opacity="0.85">
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.568s" dur="0.450s"
+      begin="0.782s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.568s" dur="0.350s"
+      begin="0.782s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur13" x="0" y="136.5" width="6.0" height="10.5"
@@ -747,11 +747,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.615s" dur="0.450s"
+      begin="0.847s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.615s" dur="0.350s"
+      begin="0.847s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur14" x="0" y="147.0" width="6.0" height="10.5"
@@ -759,11 +759,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.662s" dur="0.450s"
+      begin="0.913s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.662s" dur="0.350s"
+      begin="0.913s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur15" x="0" y="157.5" width="6.0" height="10.5"
@@ -771,11 +771,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.710s" dur="0.450s"
+      begin="0.978s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.710s" dur="0.350s"
+      begin="0.978s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur16" x="0" y="168.0" width="6.0" height="10.5"
@@ -783,11 +783,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.757s" dur="0.450s"
+      begin="1.043s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.757s" dur="0.350s"
+      begin="1.043s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur17" x="0" y="178.5" width="6.0" height="10.5"
@@ -795,11 +795,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.804s" dur="0.450s"
+      begin="1.108s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.804s" dur="0.350s"
+      begin="1.108s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur18" x="0" y="189.0" width="6.0" height="10.5"
@@ -807,11 +807,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.852s" dur="0.450s"
+      begin="1.173s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.852s" dur="0.350s"
+      begin="1.173s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur19" x="0" y="199.5" width="6.0" height="10.5"
@@ -819,11 +819,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.899s" dur="0.450s"
+      begin="1.238s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.899s" dur="0.350s"
+      begin="1.238s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur20" x="0" y="210.0" width="6.0" height="10.5"
@@ -831,11 +831,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.946s" dur="0.450s"
+      begin="1.304s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.946s" dur="0.350s"
+      begin="1.304s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur21" x="0" y="220.5" width="6.0" height="10.5"
@@ -843,11 +843,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="0.994s" dur="0.450s"
+      begin="1.369s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="0.994s" dur="0.350s"
+      begin="1.369s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur22" x="0" y="231.0" width="6.0" height="10.5"
@@ -855,11 +855,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.041s" dur="0.450s"
+      begin="1.434s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.041s" dur="0.350s"
+      begin="1.434s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur23" x="0" y="241.5" width="6.0" height="10.5"
@@ -867,11 +867,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.088s" dur="0.450s"
+      begin="1.499s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.088s" dur="0.350s"
+      begin="1.499s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur24" x="0" y="252.0" width="6.0" height="10.5"
@@ -879,11 +879,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.136s" dur="0.450s"
+      begin="1.564s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.136s" dur="0.350s"
+      begin="1.564s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur25" x="0" y="262.5" width="6.0" height="10.5"
@@ -891,11 +891,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.183s" dur="0.450s"
+      begin="1.629s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.183s" dur="0.350s"
+      begin="1.629s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur26" x="0" y="273.0" width="6.0" height="10.5"
@@ -903,11 +903,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.230s" dur="0.450s"
+      begin="1.695s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.230s" dur="0.350s"
+      begin="1.695s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur27" x="0" y="283.5" width="6.0" height="10.5"
@@ -915,11 +915,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.278s" dur="0.450s"
+      begin="1.760s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.278s" dur="0.350s"
+      begin="1.760s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur28" x="0" y="294.0" width="6.0" height="10.5"
@@ -927,11 +927,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.325s" dur="0.450s"
+      begin="1.825s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.325s" dur="0.350s"
+      begin="1.825s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur29" x="0" y="304.5" width="6.0" height="10.5"
@@ -939,11 +939,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.372s" dur="0.450s"
+      begin="1.890s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.372s" dur="0.350s"
+      begin="1.890s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur30" x="0" y="315.0" width="6.0" height="10.5"
@@ -951,11 +951,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.420s" dur="0.450s"
+      begin="1.955s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.420s" dur="0.350s"
+      begin="1.955s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur31" x="0" y="325.5" width="6.0" height="10.5"
@@ -963,11 +963,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.467s" dur="0.450s"
+      begin="2.021s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.467s" dur="0.350s"
+      begin="2.021s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur32" x="0" y="336.0" width="6.0" height="10.5"
@@ -975,11 +975,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.514s" dur="0.450s"
+      begin="2.086s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.514s" dur="0.350s"
+      begin="2.086s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur33" x="0" y="346.5" width="6.0" height="10.5"
@@ -987,11 +987,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.562s" dur="0.450s"
+      begin="2.151s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.562s" dur="0.350s"
+      begin="2.151s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur34" x="0" y="357.0" width="6.0" height="10.5"
@@ -999,11 +999,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.609s" dur="0.450s"
+      begin="2.216s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.609s" dur="0.350s"
+      begin="2.216s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur35" x="0" y="367.5" width="6.0" height="10.5"
@@ -1011,11 +1011,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.656s" dur="0.450s"
+      begin="2.281s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.656s" dur="0.350s"
+      begin="2.281s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur36" x="0" y="378.0" width="6.0" height="10.5"
@@ -1023,11 +1023,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.704s" dur="0.450s"
+      begin="2.346s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.704s" dur="0.350s"
+      begin="2.346s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur37" x="0" y="388.5" width="6.0" height="10.5"
@@ -1035,11 +1035,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.751s" dur="0.450s"
+      begin="2.412s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.751s" dur="0.350s"
+      begin="2.412s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur38" x="0" y="399.0" width="6.0" height="10.5"
@@ -1047,11 +1047,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.798s" dur="0.450s"
+      begin="2.477s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.798s" dur="0.350s"
+      begin="2.477s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur39" x="0" y="409.5" width="6.0" height="10.5"
@@ -1059,11 +1059,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.846s" dur="0.450s"
+      begin="2.542s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.846s" dur="0.350s"
+      begin="2.542s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur40" x="0" y="420.0" width="6.0" height="10.5"
@@ -1071,11 +1071,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.893s" dur="0.450s"
+      begin="2.607s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.893s" dur="0.350s"
+      begin="2.607s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur41" x="0" y="430.5" width="6.0" height="10.5"
@@ -1083,11 +1083,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.940s" dur="0.450s"
+      begin="2.672s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.940s" dur="0.350s"
+      begin="2.672s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur42" x="0" y="441.0" width="6.0" height="10.5"
@@ -1095,11 +1095,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="1.987s" dur="0.450s"
+      begin="2.738s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="1.987s" dur="0.350s"
+      begin="2.738s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur43" x="0" y="451.5" width="6.0" height="10.5"
@@ -1107,11 +1107,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.035s" dur="0.450s"
+      begin="2.803s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.035s" dur="0.350s"
+      begin="2.803s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur44" x="0" y="462.0" width="6.0" height="10.5"
@@ -1119,11 +1119,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.082s" dur="0.450s"
+      begin="2.868s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.082s" dur="0.350s"
+      begin="2.868s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur45" x="0" y="472.5" width="6.0" height="10.5"
@@ -1131,11 +1131,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.129s" dur="0.450s"
+      begin="2.933s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.129s" dur="0.350s"
+      begin="2.933s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur46" x="0" y="483.0" width="6.0" height="10.5"
@@ -1143,11 +1143,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.177s" dur="0.450s"
+      begin="2.998s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.177s" dur="0.350s"
+      begin="2.998s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur47" x="0" y="493.5" width="6.0" height="10.5"
@@ -1155,11 +1155,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.224s" dur="0.450s"
+      begin="3.063s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.224s" dur="0.350s"
+      begin="3.063s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur48" x="0" y="504.0" width="6.0" height="10.5"
@@ -1167,11 +1167,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.271s" dur="0.450s"
+      begin="3.129s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.271s" dur="0.350s"
+      begin="3.129s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur49" x="0" y="514.5" width="6.0" height="10.5"
@@ -1179,11 +1179,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.319s" dur="0.450s"
+      begin="3.194s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.319s" dur="0.350s"
+      begin="3.194s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur50" x="0" y="525.0" width="6.0" height="10.5"
@@ -1191,11 +1191,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.366s" dur="0.450s"
+      begin="3.259s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.366s" dur="0.350s"
+      begin="3.259s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur51" x="0" y="535.5" width="6.0" height="10.5"
@@ -1203,11 +1203,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.413s" dur="0.450s"
+      begin="3.324s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.413s" dur="0.350s"
+      begin="3.324s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur52" x="0" y="546.0" width="6.0" height="10.5"
@@ -1215,11 +1215,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.461s" dur="0.450s"
+      begin="3.389s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.461s" dur="0.350s"
+      begin="3.389s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur53" x="0" y="556.5" width="6.0" height="10.5"
@@ -1227,11 +1227,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.508s" dur="0.450s"
+      begin="3.454s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.508s" dur="0.350s"
+      begin="3.454s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur54" x="0" y="567.0" width="6.0" height="10.5"
@@ -1239,11 +1239,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.555s" dur="0.450s"
+      begin="3.520s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.555s" dur="0.350s"
+      begin="3.520s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur55" x="0" y="577.5" width="6.0" height="10.5"
@@ -1251,11 +1251,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.603s" dur="0.450s"
+      begin="3.585s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.603s" dur="0.350s"
+      begin="3.585s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
   <rect id="cur56" x="0" y="588.0" width="6.0" height="10.5"
@@ -1263,11 +1263,11 @@
     <animate attributeName="opacity"
       values="0;0.85;0.85;0"
       keyTimes="0;0.001;0.95;1"
-      begin="2.650s" dur="0.450s"
+      begin="3.650s" dur="0.450s"
       fill="freeze"/>
     <animate attributeName="x"
       from="0" to="600.0"
-      begin="2.650s" dur="0.350s"
+      begin="3.650s" dur="0.350s"
       fill="freeze" calcMode="linear"/>
   </rect>
 
