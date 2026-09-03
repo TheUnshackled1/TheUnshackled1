@@ -14,9 +14,7 @@
     <td valign="top"><img src="./info-card.svg" width="490" /></td>
   </tr>
 </table>
-
 </div>
-
 ---
 
 <div align="center">
